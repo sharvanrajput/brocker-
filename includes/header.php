@@ -58,10 +58,10 @@
                                 </li>
                                 <li class="menu-item has-children"><a href="#" class="nav-link">Products</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.php">Forex</a></li>
-                                        <li><a href="services.php">Indices</a></li>
-                                        <li><a href="services.php">CFDs</a></li>
-                                        <li><a href="services.php">Crypto</a></li>
+                                        <li><a href="forex.php">Forex</a></li>
+                                        <li><a href="indices.php">Indices</a></li>
+                                        <li><a href="cfds.php">CFDs</a></li>
+                                        <li><a href="crypto.php">Crypto</a></li>
                                         
                                     </ul>
                                 </li>

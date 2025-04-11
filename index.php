@@ -87,7 +87,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".3s">
                         <div class="icon">
-                            <i class="flaticon-strategy"></i>
+                            <img src="assets/images/forex.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Forex </a></h3>
@@ -99,7 +99,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".5s">
                         <div class="icon">
-                            <i class="flaticon-design"></i>
+                        <img src="assets/images/indices.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Indices</a></h3>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".7s">
                         <div class="icon">
-                            <i class="flaticon-source-code"></i>
+                        <img src="assets/images/commodities.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Commodities
@@ -128,7 +128,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".3s">
                         <div class="icon">
-                            <i class="flaticon-strategy"></i>
+                        <img src="assets/images/crypto.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Crypto
@@ -143,7 +143,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".5s">
                         <div class="icon">
-                            <i class="flaticon-design"></i>
+                        <img src="assets/images/stock.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Stock
@@ -158,7 +158,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".7s">
                         <div class="icon">
-                            <i class="flaticon-source-code"></i>
+                        <img src="assets/images/Energies.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Energies
