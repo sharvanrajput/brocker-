@@ -3262,6 +3262,7 @@ button {
     position: relative;
     z-index: 1;
     border-radius: 7px;
+    background-color: #5856e913 !important;
 }
 
 .pricing-item-one {
@@ -3312,8 +3313,8 @@ button {
 }
 
 .pricing-area-v1 .shape.shape-one {
-    top: 200px;
-    left: 150px;
+    top: 100px;
+    left: 00px;
 }
 
 .pricing-item .pricing-body p {
