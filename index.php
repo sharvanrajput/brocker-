@@ -99,7 +99,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".5s">
                         <div class="icon">
-                        <img src="assets/images/indices.png" alt="">
+                            <img src="assets/images/indices.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Indices</a></h3>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".7s">
                         <div class="icon">
-                        <img src="assets/images/commodities.png" alt="">
+                            <img src="assets/images/commodities.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Commodities
@@ -128,7 +128,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".3s">
                         <div class="icon">
-                        <img src="assets/images/crypto.png" alt="">
+                            <img src="assets/images/crypto.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Crypto
@@ -143,7 +143,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".5s">
                         <div class="icon">
-                        <img src="assets/images/stock.png" alt="">
+                            <img src="assets/images/stock.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Stock
@@ -158,7 +158,7 @@
                 <div class="col-lg-4 col-md-6 mb-40 col-sm-12">
                     <div class="service-item service-style-one  h-100 wow fadeInDown" data-wow-delay=".7s">
                         <div class="icon">
-                        <img src="assets/images/Energies.png" alt="">
+                            <img src="assets/images/Energies.png" alt="">
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Energies
@@ -193,7 +193,7 @@
             <div class="row   justify-content-center p-md-0 p-4">
                 <div class="col-md-4 ">
                     <div class="setp_icon pt-0 text-md-end wow fadeInUp">
-                        <img src="assets/images/create_account.png" class="img-fluid   " alt="">
+                        <img src="assets/images/register.png" class="img-fluid   " alt="">
                     </div>
                 </div>
                 <div class="col-md-1">
@@ -244,6 +244,173 @@
             </div>
         </div>
     </section><!--====== End Portfolio Section ======-->
+    <section class="service-area pt-90 pb-80">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title text-center mb-55 wow fadeInUp">
+                        <span class="sub-title st-one">Why us?</span>
+                        <h2>Why choose trading with us</h2>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4  ">
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Easy to use</a></h3>
+                          <p>Blazemoney FX provides a seamless and user-friendly trading experience. Manage your account over mobile or web giving you complete flexibility and convenience, whether you’re on the go or at home.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Fundamental analysis</a></h3>
+                           <p>Our trading platform determines the intrinsic value of a market, which can be used to make informed decisions. With our advanced tools and resources, you can stay ahead of the curve and achieve your financial goals.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Trading tools</a></h3>
+                           <p>Our platform offers a suite of advanced trading tools to help you maximize your profits and minimize your risks. Our FITS trading toolset includes features such as customizable charting tools, advanced technical indicators, real-time news feeds and more.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Risk management</a></h3>
+                           <p>In order to position sizing, we offer a range of risk management tools and resources to help you minimize your risk exposure, including stop-loss orders, limit orders, and protect your trading capital from large losses.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Technical analysis</a></h3>
+                           <p>Blazemoney FX trading platform offers wide-ranging technical analysis tools that help traders make informed investment decisions. With real-time data, advanced charting capabilities, and customizable indicators.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12  mb-40">
+                    <div class="service-item service-style-three h-100 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="icon">
+                            <i class="flaticon-strategy"></i>
+                        </div>
+                        <div class="text">
+                            <h3 class="title"><a href="service-details.html">Video tutorial</a></h3>
+                           <p>Blazemoney FX offers a wide range of video tutorials from our professional trainers to help you master the art of trading.</p>
+                            <a href="service-details.html" class="btn-link">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section><!--====== End Service Section ======-->
+ <!--====== Start pricing section ======-->
+ <section class="pricing-area pricing-area-v1 dark-blue-bg pattern-bg pt-130 pb-120">
+        <div class="shape shape-one scene"><span data-depth="1"><img src="assets/images/shape/shape-9.png"
+                    alt=""></span></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section-title section-title-white text-center mb-55 wow fadeInUp">
+                        <span class="sub-title st-one">Pricing Plan</span>
+                        <h2>Pricing Package</h2>
+                        <p>Professional Design Agency to provide solutions</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="pricing-head text-center">
+                            <span class="plan">Basic Plan</span>
+                            <h2 class="price"><span class="currency">$</span>16.95</h2>
+                        </div>
+                        <div class="pricing-body">
+                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
+                            <ul class="pricing-list">
+                                <li class="check">Web Design</li>
+                                <li class="check">Web Development</li>
+                                <li class="check">SEO Optimizations</li>
+                                <li class="uncheck">Online Support</li>
+                                <li class="uncheck">Domain & Hosting</li>
+                            </ul>
+                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
+                                Plan</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".3s">
+                        <div class="ribbon">Popular</div>
+                        <div class="pricing-head text-center">
+                            <span class="plan">Standard Plan</span>
+                            <h2 class="price"><span class="currency">$</span>46.95</h2>
+                        </div>
+                        <div class="pricing-body">
+                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
+                            <ul class="pricing-list">
+                                <li class="check">Web Design</li>
+                                <li class="check">Web Development</li>
+                                <li class="check">SEO Optimizations</li>
+                                <li class="check">Online Support</li>
+                                <li class="check">Domain & Hosting</li>
+                            </ul>
+                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
+                                Plan</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".4s">
+                        <div class="pricing-head text-center">
+                            <span class="plan">Silver Plan</span>
+                            <h2 class="price"><span class="currency">$</span>96.95</h2>
+                        </div>
+                        <div class="pricing-body">
+                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
+                            <ul class="pricing-list">
+                                <li class="check">Web Design</li>
+                                <li class="check">Web Development</li>
+                                <li class="check">SEO Optimizations</li>
+                                <li class="check">Online Support</li>
+                                <li class="check">Domain & Hosting</li>
+                            </ul>
+                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
+                                Plan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--====== End pricing section ======-->
     <!--====== Start CTA Section ======-->
     <section class="cta-area cta-area-v1 pt-130">
         <div class="container-1450">
@@ -484,85 +651,7 @@
         </div>
     </section>
     <!--====== End Contact Section ======-->
-    <!--====== Start pricing section ======-->
-    <section class="pricing-area pricing-area-v1 dark-blue-bg pattern-bg pt-130 pb-120">
-        <div class="shape shape-one scene"><span data-depth="1"><img src="assets/images/shape/shape-9.png"
-                    alt=""></span></div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-title section-title-white text-center mb-55 wow fadeInUp">
-                        <span class="sub-title st-one">Pricing Plan</span>
-                        <h2>Pricing Package</h2>
-                        <p>Professional Design Agency to provide solutions</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".2s">
-                        <div class="pricing-head text-center">
-                            <span class="plan">Basic Plan</span>
-                            <h2 class="price"><span class="currency">$</span>16.95</h2>
-                        </div>
-                        <div class="pricing-body">
-                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
-                            <ul class="pricing-list">
-                                <li class="check">Web Design</li>
-                                <li class="check">Web Development</li>
-                                <li class="check">SEO Optimizations</li>
-                                <li class="uncheck">Online Support</li>
-                                <li class="uncheck">Domain & Hosting</li>
-                            </ul>
-                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
-                                Plan</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="ribbon">Popular</div>
-                        <div class="pricing-head text-center">
-                            <span class="plan">Standard Plan</span>
-                            <h2 class="price"><span class="currency">$</span>46.95</h2>
-                        </div>
-                        <div class="pricing-body">
-                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
-                            <ul class="pricing-list">
-                                <li class="check">Web Design</li>
-                                <li class="check">Web Development</li>
-                                <li class="check">SEO Optimizations</li>
-                                <li class="check">Online Support</li>
-                                <li class="check">Domain & Hosting</li>
-                            </ul>
-                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
-                                Plan</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="pricing-item pricing-item-two bg-white mb-40 wow fadeInUp" data-wow-delay=".4s">
-                        <div class="pricing-head text-center">
-                            <span class="plan">Silver Plan</span>
-                            <h2 class="price"><span class="currency">$</span>96.95</h2>
-                        </div>
-                        <div class="pricing-body">
-                            <p>Sit amet consectetur adiising seddo eiusmod teme</p>
-                            <ul class="pricing-list">
-                                <li class="check">Web Design</li>
-                                <li class="check">Web Development</li>
-                                <li class="check">SEO Optimizations</li>
-                                <li class="check">Online Support</li>
-                                <li class="check">Domain & Hosting</li>
-                            </ul>
-                            <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose
-                                Plan</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!--====== End pricing section ======-->
+    
     <!--====== Start Blog Section ======-->
     <section class="blog-area blog-area-v1 light-gray-bg pt-130 pb-130">
         <div class="container">

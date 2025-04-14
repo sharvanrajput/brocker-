@@ -43,14 +43,13 @@
                 <div class="col-lg-6">
                     <div class="text-wrapper mb-50 wow fadeInRight" data-wow-delay=".4s">
                         <div class="section-title mb-30">
-                            <span class="sub-title st-one">Trading Forex</span>
-                            <h2>Trade Forex Anytime, Anywhere</h2>
-                            <p class="blue-dark">Professional Design Agency to provide solutions</p>
+                            <span class="sub-title st-one">Trading Crypto</span>
+                            <h2>Discover Crypto Derivatives Trading</h2>
+
                         </div>
                         <p>Access global currency markets with ease and real-time data for better trading decisions.
-                            Blazemoney FX Trading 24 Hour Market is the only place* you can trade TSLA, AMZN, AAPL and
-                            more of your favorite stocks and ETFs 24 hours a day, 5 days a week. All still
-                            commission-free.
+
+
                         </p>
                         <a href="about.html" class="main-btn ">Discover More</a>
                     </div>
@@ -64,17 +63,15 @@
                 <div class="col-lg-12">
                     <div class="text-wrapper text-center mb-50 wow fadeInRight" data-wow-delay=".4s">
                         <div class="section-title mb-30">
-                            <span class="sub-title st-one">Protection</span>
-                            <h2>Stocks and ETFs Hop on market movements, day or night</h2>
-                            <p>Blazemoney FX Trading 24 Hour Market is the only place* you can trade TSLA, AMZN, AAPL and more of your favorite stocks and ETFs 24 hours a day, 5 days a week. All still commission-free.
+                            <span class="sub-title st-one"> The Crypto market operates 24/7.</span>
+                            <h2>Pick Your Cryptocurrencies</h2>
 
-</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="product_table_wraper">
-                        <table >
+                        <table>
                             <thead>
                                 <tr>
                                     <th>Symbol</th>
@@ -89,195 +86,187 @@
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_1.svg" alt="">
+                                                <img src="assets/images/coin_1.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>USDJPY</h5>
-                                                <p>U.S. Dollar vs Japanese Yen</p>
+                                                <h5>BTCUSD</h5>
+                                                <p>Bitcoin vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.5</td>
-                                    <td>2.0</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>60.01</td>
+                                    <td>60.00</td>
+                                    <td>500</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_2.svg" alt="">
+                                                <img src="assets/images/coin_2.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURUSD</h5>
-                                                <p>Euro vs U.S. Dollar</p>
+                                                <h5>ETHUSD</h5>
+                                                <p>Ethereum vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.0</td>
-                                    <td>1.6</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>5.51</td>
+                                    <td>5.50</td>
+                                    <td>500</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_3.svg" alt="">
+                                                <img src="assets/images/coin_3.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>AUDUSD</h5>
-                                                <p>Australian Dollar vs U.S. Dollar</p>
+                                                <h5>SOLUSD</h5>
+                                                <p>Solana vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.4</td>
-                                    <td>2.3</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>1.18</td>
+                                    <td>1.18</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_4.svg" alt="">
+                                                <img src="assets/images/coin_4.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>GBPJPY</h5>
-                                                <p>Pound Sterling vs Japanese Yen</p>
+                                                <h5>XRPUSD</h5>
+                                                <p>Ripple vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>3.8</td>
-                                    <td>3.0</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.00343</td>
+                                    <td>0.00335</td>
+                                    <td>250</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_5.svg" alt="">
+                                                <img src="assets/images/coin_5.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>GBPUSD</h5>
-                                                <p>Pound Sterling vs U.S. Dollar</p>
+                                                <h5>DOGEUSD</h5>
+                                                <p>Dogecoin vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.4</td>
-                                    <td>1.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.00154</td>
+                                    <td>0.00155</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_6.svg" alt="">
+                                                <img src="assets/images/coin_6.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURJPY</h5>
-                                                <p>Euro vs Japanese Yen</p>
+                                                <h5>SHIBUSD</h5>
+                                                <p>Shiba Inu vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>3.2</td>
-                                    <td>2.1</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.00035</td>
+                                    <td>0.00034</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_7.svg" alt="">
+                                                <img src="assets/images/coin_7.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURGBP</h5>
-                                                <p>Euro vs Pound Sterling</p>
+                                                <h5>AVAXUSD</h5>
+                                                <p>Avalanche vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.4</td>
-                                    <td>1.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.31</td>
+                                    <td>0.30</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_8.svg" alt="">
+                                                <img src="assets/images/coin_8.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>USDCHF</h5>
-                                                <p>U.S. Dollar vs Swiss Franc</p>
+                                                <h5>BCHUSD</h5>
+                                                <p>Bitcoin Cash vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.6</td>
-                                    <td>1.9</td>
-                                    <td>400</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>3.42</td>
+                                    <td>3.25</td>
+                                    <td>250</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_9.svg" alt="">
+                                                <img src="assets/images/coin_9.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>NZDUSD</h5>
-                                                <p>New Zealand Dollar vs U.S. Dollar</p>
+                                                <h5>DOTUSD</h5>
+                                                <p>Polkadot vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.9</td>
-                                    <td>2.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.040</td>
+                                    <td>0.038</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_10.svg" alt="">
+                                                <img src="assets/images/coin_10.svg" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURCHF</h5>
-                                                <p>Euro vs Swiss Franc</p>
+                                                <h5>BTGUSD</h5>
+                                                <p>Bitcoin Gold vs U.S. Dollar</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>3.3</td>
-                                    <td>2.4</td>
-                                    <td>400</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.0518</td>
+                                    <td>0.0510</td>
+                                    <td>500</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
+                                <!-- Crypto Data End -->
                             </tbody>
                         </table>
                     </div>
+
                 </div>
             </div>
         </div>

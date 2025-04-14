@@ -12,7 +12,7 @@
                         <div class="page-title text-center">
                             <h1>Blog Standard</h1>
                             <ul class="breadcrumbs-link">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="active">Blog Standard</li>
                             </ul>
                         </div>
@@ -39,10 +39,10 @@
                                             <li><span><i class="far fa-comments"></i><a href="#">Comment (5)</a></span></li>
                                         </ul>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.html">Powerful Terminal And Command Line  Seeny
+                                    <h3 class="title"><a href="blog-details.php">Powerful Terminal And Command Line  Seeny
                                         Tools  Modern Web Development</a></h3>
                                     <p>Sit amet consectetur adipiscing elit sed do eiusmod temp didunt ut labore et dolore magna aliqua suspendisse</p>
-                                    <a href="blog-details.html" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
+                                    <a href="blog-details.php" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
                                 </div>
                             </div>
                             <div class="blog-standard-post-item mb-60 wow fadeInUp" data-wow-delay=".20s">
@@ -57,9 +57,9 @@
                                             <li><span><i class="far fa-comments"></i><a href="#">Comment (5)</a></span></li>
                                         </ul>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.html">Everything You Want To Know About Creating Voice User Interfaces Powerful Terminal</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Everything You Want To Know About Creating Voice User Interfaces Powerful Terminal</a></h3>
                                     <p>Sit amet consectetur adipiscing elit sed do eiusmod temp didunt ut labore et dolore magna aliqua suspendisse</p>
-                                    <a href="blog-details.html" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
+                                    <a href="blog-details.php" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
                                 </div>
                             </div>
                             <div class="blog-standard-post-item post-without-thumbnail mb-60 wow fadeInUp" data-wow-delay=".25s">
@@ -71,11 +71,11 @@
                                             <li><span><i class="far fa-comments"></i><a href="#">Comment (5)</a></span></li>
                                         </ul>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.html">Designing Better Link Websites And Emails Guideline 
+                                    <h3 class="title"><a href="blog-details.php">Designing Better Link Websites And Emails Guideline 
                                         Everything You Want To Know Creating Voice</a></h3>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men aresc
                                         beguiled and demoralized by the charms of pleasure of the moment</p>
-                                    <a href="blog-details.html" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
+                                    <a href="blog-details.php" class="main-btn bordered-btn btn-blue arrow-btn">Read More</a>
                                 </div>
                             </div>
                             <div class="blog-standard-post-item mb-60 wow fadeInUp" data-wow-delay=".30s">
@@ -90,9 +90,9 @@
                                             <li><span><i class="far fa-comments"></i><a href="#">Comment (5)</a></span></li>
                                         </ul>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.html">Everything You Want To Know About Creating Voice User Interfaces Powerful Terminal</a></h3>
+                                    <h3 class="title"><a href="blog-details.php">Everything You Want To Know About Creating Voice User Interfaces Powerful Terminal</a></h3>
                                     <p>Sit amet consectetur adipiscing elit sed do eiusmod temp didunt ut labore et dolore magna aliqua suspendisse</p>
-                                    <a href="blog-details.html" class="main-btn bordered-btn btn-blue">Read More</a>
+                                    <a href="blog-details.php" class="main-btn bordered-btn btn-blue">Read More</a>
                                 </div>
                             </div>
                             <div class="blog-standard-post-item post-with-bg mb-60 wow fadeInUp" data-wow-delay=".35s">
@@ -107,8 +107,8 @@
                                                     <li><span><i class="far fa-comments"></i><a href="#">Comment (5)</a></span></li>
                                                 </ul>
                                             </div>
-                                            <h3 class="title"><a href="blog-details.html">Everything You Want To Know About Creating Voicese User Interfaces Powerful Terminal</a></h3>
-                                            <a href="blog-details.html" class="btn-link">Read More</a>
+                                            <h3 class="title"><a href="blog-details.php">Everything You Want To Know About Creating Voicese User Interfaces Powerful Terminal</a></h3>
+                                            <a href="blog-details.php" class="btn-link">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -153,21 +153,21 @@
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/widget/news-1.jpg" alt="post image">
                                         <div class="post-title-date">
-                                            <h6><a href="blog-details.html">Guide Modern CSS Colors HWB, LAB</a></h6>
+                                            <h6><a href="blog-details.php">Guide Modern CSS Colors HWB, LAB</a></h6>
                                             <span class="posted-on">By <a href="#">Somalia D. Silba</a></span>
                                         </div>
                                     </li>
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/widget/news-2.jpg" alt="post image">
                                         <div class="post-title-date">
-                                            <h6><a href="blog-details.html">Guide Modern CSS Colors HWB, LAB</a></h6>
+                                            <h6><a href="blog-details.php">Guide Modern CSS Colors HWB, LAB</a></h6>
                                             <span class="posted-on">By <a href="#">Somalia D. Silba</a></span>
                                         </div>
                                     </li>
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/widget/news-3.jpg" alt="post image">
                                         <div class="post-title-date">
-                                            <h6><a href="blog-details.html">Guide Modern CSS Colors HWB, LAB</a></h6>
+                                            <h6><a href="blog-details.php">Guide Modern CSS Colors HWB, LAB</a></h6>
                                             <span class="posted-on">By <a href="#">Somalia D. Silba</a></span>
                                         </div>
                                     </li>

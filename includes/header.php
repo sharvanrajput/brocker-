@@ -53,8 +53,8 @@
                         <!-- Main Menu -->
                         <nav class="main-menu">
                             <ul>
-                                <li class="menu-item "><a href="index.php" class="active nav-link">Home</a>
-                                   
+                                
+                                <li class="menu-item "><a href="about.php" class=" nav-link">About Us</a></li>
                                 </li>
                                 <li class="menu-item has-children"><a href="#" class="nav-link">Products</a>
                                     <ul class="sub-menu">
@@ -65,25 +65,13 @@
                                         
                                     </ul>
                                 </li>
-                                <li class="menu-item has-children"><a href="#" class="nav-link">Portfolio</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="projects.php">Our Portfolio</a></li>
-                                        <li><a href="project-details.php">Portfolio Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item has-children"><a href="#" class="nav-link">Pages</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="about.php">About Us</a></li>
-                                        <li><a href="team.php">Our Team</a></li>
-                                        <li><a href="team-details.php">Team Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item has-children"><a href="#" class="nav-link">Blog</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="blogs.php">Our Blog</a></li>
-                                        <li><a href="blog-details.php">Blog Details</a></li>
-                                    </ul>
-                                </li>
+                                
+                               
+                                <li class="menu-item "><a href="platform.php" class="nav-link">Platform</a></li>
+                                <li class="menu-item "><a href="blogs.php" class="nav-link">Account types</a></li>
+                                <li class="menu-item "><a href="blogs.php" class="nav-link">Account funding</a></li>
+
+                                <li class="menu-item "><a href="blogs.php" class="nav-link">Blog</a></li>
                                 <li class="menu-item"><a href="contact.php" class="nav-link">Contact</a></li>
                             </ul>
                         </nav>

@@ -68,7 +68,7 @@
                             <h2>Stocks and ETFs Hop on market movements, day or night</h2>
                             <p>Blazemoney FX Trading 24 Hour Market is the only place* you can trade TSLA, AMZN, AAPL and more of your favorite stocks and ETFs 24 hours a day, 5 days a week. All still commission-free.
 
-</p>
+</p> 
                         </div>
                     </div>
                 </div>

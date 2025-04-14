@@ -45,7 +45,7 @@
                         <div class="section-title mb-30">
                             <span class="sub-title st-one">Trading Indices</span>
                             <h2>Discover Crypto Derivatives Trading</h2>
-                           
+
                         </div>
                         <p>Access global currency markets with ease and real-time data for better trading decisions.
                         </p>
@@ -64,13 +64,13 @@
                             <span class="sub-title st-one">Protection</span>
                             <h2>Pick Your Cryptocurrencies</h2>
                             <p>The Crypto market operates 24/7.
-</p>
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="product_table_wraper">
-                        <table >
+                        <table>
                             <thead>
                                 <tr>
                                     <th>Symbol</th>
@@ -85,195 +85,168 @@
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_1.svg" alt="">
+                                                <img src="assets/images/index_1.webp" width="30px" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>USDJPY</h5>
-                                                <p>U.S. Dollar vs Japanese Yen</p>
+                                                <h5>SPX500</h5>
+                                                <p>S&amp;P 500 Index</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.5</td>
+                                    <td>0.5</td>
+                                    <td>0.4</td>
+                                    <td>200</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="pariimg">
+                                                <img src="assets/images/index_2.webp" width="30px" alt="">
+                                            </div>
+                                            <div class="pari_disc">
+                                                <h5>NAS100</h5>
+                                                <p>Nasdaq 100 Index</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>1.2</td>
+                                    <td>1.0</td>
+                                    <td>200</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="pariimg">
+                                                <img src="assets/images/index_3.webp" width="30px" alt="">
+                                            </div>
+                                            <div class="pari_disc">
+                                                <h5>DOW30</h5>
+                                                <p>Dow Jones Industrial Average</p>
+                                            </div>
+                                        </div>
+                                    </td>
                                     <td>2.0</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>1.8</td>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_2.svg" alt="">
+                                                <img src="assets/images/index_4.webp" width="30px" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURUSD</h5>
-                                                <p>Euro vs U.S. Dollar</p>
+                                                <h5>FTSE100</h5>
+                                                <p>FTSE 100 Index</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.0</td>
-                                    <td>1.6</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>0.8</td>
+                                    <td>0.7</td>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_3.svg" alt="">
+                                                <img src="assets/images/index_5.webp" width="30px" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>AUDUSD</h5>
-                                                <p>Australian Dollar vs U.S. Dollar</p>
+                                                <h5>DAX40</h5>
+                                                <p>Germany 40 Index</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>2.4</td>
-                                    <td>2.3</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>1.5</td>
+                                    <td>1.3</td>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_4.svg" alt="">
+                                                <img src="assets/images/index_6.webp" width="30px" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>GBPJPY</h5>
-                                                <p>Pound Sterling vs Japanese Yen</p>
+                                                <h5>NIKKEI225</h5>
+                                                <p>Nikkei 225 Index</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>3.8</td>
                                     <td>3.0</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="d-flex">
-                                            <div class="pariimg">
-                                                <img src="assets/images/pair_5.svg" alt="">
-                                            </div>
-                                            <div class="pari_disc">
-                                                <h5>GBPUSD</h5>
-                                                <p>Pound Sterling vs U.S. Dollar</p>
-                                            </div>
-                                        </div>
-
-                                    </td>
-
-                                    <td>2.4</td>
-                                    <td>1.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="d-flex">
-                                            <div class="pariimg">
-                                                <img src="assets/images/pair_6.svg" alt="">
-                                            </div>
-                                            <div class="pari_disc">
-                                                <h5>EURJPY</h5>
-                                                <p>Euro vs Japanese Yen</p>
-                                            </div>
-                                        </div>
-
-                                    </td>
-
-                                    <td>3.2</td>
-                                    <td>2.1</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="d-flex">
-                                            <div class="pariimg">
-                                                <img src="assets/images/pair_7.svg" alt="">
-                                            </div>
-                                            <div class="pari_disc">
-                                                <h5>EURGBP</h5>
-                                                <p>Euro vs Pound Sterling</p>
-                                            </div>
-                                        </div>
-
-                                    </td>
-
-                                    <td>2.4</td>
-                                    <td>1.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="d-flex">
-                                            <div class="pariimg">
-                                                <img src="assets/images/pair_8.svg" alt="">
-                                            </div>
-                                            <div class="pari_disc">
-                                                <h5>USDCHF</h5>
-                                                <p>U.S. Dollar vs Swiss Franc</p>
-                                            </div>
-                                        </div>
-
-                                    </td>
-
-                                    <td>2.6</td>
-                                    <td>1.9</td>
-                                    <td>400</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="d-flex">
-                                            <div class="pariimg">
-                                                <img src="assets/images/pair_9.svg" alt="">
-                                            </div>
-                                            <div class="pari_disc">
-                                                <h5>NZDUSD</h5>
-                                                <p>New Zealand Dollar vs U.S. Dollar</p>
-                                            </div>
-                                        </div>
-
-                                    </td>
-
-                                    <td>2.9</td>
                                     <td>2.8</td>
-                                    <td>1000</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                                 <tr>
                                     <td>
                                         <div class="d-flex">
                                             <div class="pariimg">
-                                                <img src="assets/images/pair_10.svg" alt="">
+                                                <img src="assets/images/index_7.webp" width="30px" alt="">
                                             </div>
                                             <div class="pari_disc">
-                                                <h5>EURCHF</h5>
-                                                <p>Euro vs Swiss Franc</p>
+                                                <h5>AUS200</h5>
+                                                <p>Australia 200 Index</p>
                                             </div>
                                         </div>
-
                                     </td>
-
-                                    <td>3.3</td>
-                                    <td>2.4</td>
-                                    <td>400</td>
-                                    <th> <a href="contact.html" class="main-btn  wow fadeInUp" data-wow-delay=".5s">Action</a></th>
+                                    <td>1.0</td>
+                                    <td>0.9</td>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="pariimg">
+                                                <img src="assets/images/index_8.webp" width="30px" alt="">
+                                            </div>
+                                            <div class="pari_disc">
+                                                <h5>IBEX35</h5>
+                                                <p>Spain 35 Index</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>1.7</td>
+                                    <td>1.5</td>
+                                    <td>50</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="pariimg">
+                                                <img src="assets/images/index_9.webp" width="30px" alt="">
+                                            </div>
+                                            <div class="pari_disc">
+                                                <h5>EURO50</h5>
+                                                <p>Euro Stoxx 50 Index</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>1.3</td>
+                                    <td>1.1</td>
+                                    <td>100</td>
+                                    <th><a href="contact.html" class="main-btn wow fadeInUp"
+                                            data-wow-delay=".5s">Action</a></th>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
+
                 </div>
             </div>
         </div>
