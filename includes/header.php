@@ -69,7 +69,7 @@
                                
                                 <li class="menu-item "><a href="platform.php" class="nav-link">Platform</a></li>
                                 <li class="menu-item "><a href="account-type.php" class="nav-link">Account types</a></li>
-                                <li class="menu-item "><a href="blogs.php" class="nav-link">Account funding</a></li>
+                                <li class="menu-item "><a href="account-funding.php" class="nav-link">Account funding</a></li>
 
                                 <li class="menu-item "><a href="blogs.php" class="nav-link">Blog</a></li>
                                 <li class="menu-item"><a href="contact.php" class="nav-link">Contact</a></li>
