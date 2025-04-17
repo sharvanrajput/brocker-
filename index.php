@@ -7,7 +7,7 @@
         <div class="bg-two"></div>
         <div class="hero-img hero-img-one scene"><span data-depth=".5"><img src="assets/images/hero/hero-one-img-1.jpg"
                     class="wow fadeInLeft" alt="hero image"></span></div>
-        <div class="hero-img hero-img-two scene"><span data-depth=".2"><img src="assets/images/hero/hero-one-img-2.jpg"
+        <div class="hero-img hero-img-two scene"><span data-depth=".2"><img src="assets/images/banner_img_1.png"
                     class="wow fadeInLeft" alt="hero image"></span></div>
         <!-- <div class="hero-img hero-img-three scene"><span data-depth=".3"><img
                     src="assets/images/shape/circle-logo-1.png" class="wow fadeInLeft" alt="hero image"></span></div> -->
@@ -33,6 +33,10 @@
             </div>
         </div>
     </section><!--====== End Hero Section ======-->
+
+
+
+
     <!--====== Start About Section ======-->
     <section class="about-area about-area-v1 position-relative pt-130">
         <div class="container">
@@ -40,11 +44,11 @@
                 <div class="col-lg-6">
                     <div class="img-holder-box mb-50">
                         <div class="img-holder wow fadeInLeft">
-                            <img src="assets/images/about/about-1.jpg" alt="Image">
+                            <img src="assets/images/home_about.png" alt="Image">
                         </div>
-                        <div class="shape shape-one"><span class="animate-float-y"><img
+                        <!-- <div class="shape shape-one"><span class="animate-float-y"><img
                                     src="assets/images/shape/circle-logo-2.png" class="circle-logo"
-                                    alt="circle logo"></span></div>
+                                    alt="circle logo"></span></div> -->
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -263,7 +267,9 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Easy to use</a></h3>
-                          <p>Blazemoney FX provides a seamless and user-friendly trading experience. Manage your account over mobile or web giving you complete flexibility and convenience, whether you’re on the go or at home.</p>
+                            <p>Blazemoney FX provides a seamless and user-friendly trading experience. Manage your
+                                account over mobile or web giving you complete flexibility and convenience, whether
+                                you’re on the go or at home.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
@@ -275,7 +281,9 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Fundamental analysis</a></h3>
-                           <p>Our trading platform determines the intrinsic value of a market, which can be used to make informed decisions. With our advanced tools and resources, you can stay ahead of the curve and achieve your financial goals.</p>
+                            <p>Our trading platform determines the intrinsic value of a market, which can be used to
+                                make informed decisions. With our advanced tools and resources, you can stay ahead of
+                                the curve and achieve your financial goals.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
@@ -287,7 +295,9 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Trading tools</a></h3>
-                           <p>Our platform offers a suite of advanced trading tools to help you maximize your profits and minimize your risks. Our FITS trading toolset includes features such as customizable charting tools, advanced technical indicators, real-time news feeds and more.</p>
+                            <p>Our platform offers a suite of advanced trading tools to help you maximize your profits
+                                and minimize your risks. Our FITS trading toolset includes features such as customizable
+                                charting tools, advanced technical indicators, real-time news feeds and more.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
@@ -299,7 +309,9 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Risk management</a></h3>
-                           <p>In order to position sizing, we offer a range of risk management tools and resources to help you minimize your risk exposure, including stop-loss orders, limit orders, and protect your trading capital from large losses.</p>
+                            <p>In order to position sizing, we offer a range of risk management tools and resources to
+                                help you minimize your risk exposure, including stop-loss orders, limit orders, and
+                                protect your trading capital from large losses.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
@@ -311,7 +323,9 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Technical analysis</a></h3>
-                           <p>Blazemoney FX trading platform offers wide-ranging technical analysis tools that help traders make informed investment decisions. With real-time data, advanced charting capabilities, and customizable indicators.</p>
+                            <p>Blazemoney FX trading platform offers wide-ranging technical analysis tools that help
+                                traders make informed investment decisions. With real-time data, advanced charting
+                                capabilities, and customizable indicators.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
@@ -323,21 +337,22 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="service-details.html">Video tutorial</a></h3>
-                           <p>Blazemoney FX offers a wide range of video tutorials from our professional trainers to help you master the art of trading.</p>
+                            <p>Blazemoney FX offers a wide range of video tutorials from our professional trainers to
+                                help you master the art of trading.</p>
                             <a href="service-details.html" class="btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section><!--====== End Service Section ======-->
 
     <!--====== Start CTA Section ======-->
-    <section class="cta-area cta-area-v1 pt-130">
+    <section class="cta-area cta-area-v1 pt-0">
         <div class="container-1450">
             <div class="cta-wrapper dark-blue-bg">
-                <div class="cta-img wow fadeInDown "><img src="assets/images/cta/img-1.jpg" alt=""></div>
+                <div class="cta-img wow fadeInDown "><img src="assets/images/cta_img.png" alt=""></div>
                 <div class="row">
                     <div class="col-xl-8 col-lg-12">
                         <div class="text-wrapper wow fadeInUp">
@@ -418,7 +433,7 @@
     </section><!--====== End Counter Section ======-->
     <!--====== Start Testimonial Section ======-->
     <section class="testimonial-area testimonial-area-v1 dark-blue-bg pattern-bg pt-130 pb-80">
-        <div class="shape-img wow fadeInRight animate-float-y"><span><img src="assets/images/testimonial/img-3.jpg"
+        <div class="shape-img wow fadeInRight animate-float-y"><span><img src="assets/images/review_img_1.png"
                     alt=""></span></div>
         <div class="container">
             <div class="row">
@@ -433,7 +448,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-5">
                     <div class="img-holder mb-50 wow fadeInLeft">
-                        <img src="assets/images/testimonial/img-1.jpg" alt="">
+                        <img src="assets/images/review_img_2.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -566,16 +581,16 @@
                         <div class="shape shape-icon-one scene"><span data-depth="1"><img
                                     src="assets/images/shape/shape-4.png" alt=""></span></div>
                         <div class="shape shape-icon-two"><span></span></div>
-                        <img src="assets/images/contact/contact-1.jpg" alt="Contact Image">
+                        <img src="assets/images/contact_img.png" alt="Contact Image">
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!--====== End Contact Section ======-->
-    
+
     <!--====== Start Blog Section ======-->
-    <section class="blog-area blog-area-v1 light-gray-bg pt-130 pb-130">
+    <section class="blog-area blog-area-v1 light-gray-bg pt-80 pb-130">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">

@@ -4,8 +4,8 @@
         <div class="footer-top pt-75 pb-40">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <div class="footer-logo mb-40 wow fadeInLeft">
-                        <img src="assets/images/logo/footer-logo-1.png" alt="Brand Logo">
+                    <div class="footer-logo mb-40 wow fadeInLeft" width="180px">
+                        <img src="assets/images/logo.png " class="w-50"  alt="Brand Logo">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -21,27 +21,27 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="widget footer-nav-widget mb-40 wow fadeInUp" data-wow-delay=".15s">
-                        <h4 class="widget-title">Services</h4>
+                        <h4 class="widget-title">Quick link</h4>
                         <ul class="widget-nav">
-                            <li><a href="services.html">UX/UI Design</a></li>
-                            <li><a href="services.html">Web Development</a></li>
-                            <li><a href="services.html">SEO Optimization</a></li>
-                            <li><a href="services.html">Product Design</a></li>
-                            <li><a href="services.html">Logo Design</a></li>
-                            <li><a href="services.html">Brand Design</a></li>
+                            <li><a href="index.php"> Home</a></li>
+                            <li><a href="about.php">About us</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="Contact.php">Contact</a></li>
+                            <li><a href="account-type.php">Account type</a></li>
+                            <li><a href="account-funding.php">Account funding</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="widget footer-nav-widget mb-40 wow fadeInUp" data-wow-delay=".20s">
-                        <h4 class="widget-title">Links</h4>
+                        <h4 class="widget-title">Products</h4>
                         <ul class="widget-nav">
-                            <li><a href="services.html">About Agency</a></li>
-                            <li><a href="services.html">Latest News & Blog</a></li>
-                            <li><a href="services.html">Meet The Team</a></li>
-                            <li><a href="services.html">Popular Services</a></li>
-                            <li><a href="services.html">Testimonials</a></li>
-                            <li><a href="services.html">Need a Career?</a></li>
+                            <li><a href="forex.php">Forex</a></li>
+                            <li><a href="indices.php">Indices</a></li>
+                            <li><a href="cfds.php">CFD's</a></li>
+                            <li><a href="crypto.php">Crypto</a></li>
+                            <li><a href="platform.php">Platform</a></li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -82,15 +82,16 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="copyright-text">
-                        <p>&copy; 2022. All rights reserved design by Webtend</p>
+                        <p>&copy; 2022. All rights reserved design by Sharvan</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="footer-nav float-lg-right">
                         <ul>
-                            <li><a href="service-details.html">Setting & Privacy </a></li>
-                            <li><a href="service-details.html">Faqs</a></li>
-                            <li><a href="service-details.html">Services</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="refund-policy.php">Refund Policy</a></li>
+                            <li><a href="aml-policy.php">Aml Policy</a></li>
+                            <li><a href="kyc-policy.php">Kyc Policy</a></li>
                         </ul>
                     </div>
                 </div>
